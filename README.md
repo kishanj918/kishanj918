@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Kishan Jobanputra!
 
-<!--
-**kishanj918/kishanj918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior Frontend Engineer | JavaScript & TypeScript Enthusiast**  
+📧 **Contact**: [kishanj918@gmail.com](mailto:kishanj918@gmail.com)  
+🌐 **Portfolio**: [github.com/kishanj918](https://github.com/kishanj918)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a passionate frontend engineer with expertise in **SvelteKit**, **ReactJS**, **React Native**, and **Flutter**. With over 6 years of experience, I’ve developed scalable and high-performance web and mobile applications that solve real-world problems, save time, and boost profitability.
+
+---
+
+## 💡 Skills
+
+### Languages
+- **JavaScript**, **TypeScript**, **HTML/CSS**, **Dart**
+
+### Frameworks & Tools
+- **SvelteKit**, **ReactJS**, **React Native**, **Node.js**, **NestJS**, **Jest**, **Flutter**
+
+## 📈 What I’m Working On
+- Optimizing modern web applications using **SvelteKit** and **ReactJS**.  
+- Contributing to scalable backend solutions with **NestJS**.
+
+---
+
+## 📬 Let’s Connect
+Feel free to explore my repositories and reach out if you’d like to collaborate!
