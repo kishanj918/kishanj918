@@ -7,23 +7,20 @@
 ---
 
 ## 🚀 About Me
-I am a passionate frontend engineer with expertise in **SvelteKit**, **ReactJS**, **React Native**, and **Flutter**. With over 6 years of experience, I’ve developed scalable and high-performance web and mobile applications that solve real-world problems, save time, and boost profitability.
+I am a passionate frontend engineer with expertise in **NextJs**, **SvelteKit**, **ReactJS**, **React Native**, and **Flutter**. With over 8 years of experience, I’ve developed scalable and high-performance web and mobile applications that solve real-world problems, save time, and boost profitability.
 
 ---
 
 ## 💡 Skills
 
 ### Languages
-- **JavaScript**, **TypeScript**, **HTML/CSS**, **Dart**
+- **JavaScript**, **TypeScript**, **HTML/CSS**, **Dart**, **Python**
 
 ### Frameworks & Tools
-- **SvelteKit**, **ReactJS**, **React Native**, **Node.js**, **NestJS**, **Jest**, **Flutter**
+- **NextJs**, **SvelteKit**, **ReactJS**, **React Native**, **Node.js**, **NestJS**, **Jest**, **Flutter**
 
 ## 📈 What I’m Working On
 - Optimizing modern web applications using **SvelteKit** and **ReactJS**.  
 - Contributing to scalable backend solutions with **NestJS**.
 
 ---
-
-## 📬 Let’s Connect
-Feel free to explore my repositories and reach out if you’d like to collaborate!
