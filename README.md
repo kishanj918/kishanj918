@@ -2,8 +2,6 @@
 
 🎯 **Senior Frontend Engineer | JavaScript & TypeScript Enthusiast**  
 📧 **Contact**: [kishanj918@gmail.com](mailto:kishanj918@gmail.com)  
-🌐 **Portfolio**: [github.com/kishanj918](https://github.com/kishanj918)  
-
 ---
 
 ## 🚀 About Me
